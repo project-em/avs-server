@@ -1,0 +1,8 @@
+{
+  "name": "AVS to Unreal Engine 4 Integration",
+  "description": "Foo",
+  "repository": "https://github.com/project-em/avs-unreal",
+  "logo": "",
+  "keywords": ["unreal", "epic", "avs", "alexa"],
+  "image": "heroku/nodejs"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "avs-unreal",
+  "version": "1.0.0",
+  "description": "AVS integration with Unreal Engine 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-em/avs-unreal.git"
+  },
+  "keywords": [
+    "unreal",
+    "alexa",
+    "avs",
+    "epic",
+    "amazon"
+  ],
+  "author": "project-em",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-em/avs-unreal/issues"
+  },
+  "homepage": "https://github.com/project-em/avs-unreal#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
